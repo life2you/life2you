@@ -77,11 +77,18 @@ If that sounds like your kind of software, we will probably get along.
 
 如果你也喜欢这种类型的软件，欢迎交流。
 
-## GitHub Snapshot | GitHub 概览
+## Snapshot | 快速标签
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=life2you&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life2you&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img alt="Java experience" src="https://img.shields.io/badge/Java-9%20years-0b1220?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-Building%20in%20public-0b1220?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-Local%20tools-0b1220?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+<p align="center">
+  <img alt="Terminal first" src="https://img.shields.io/badge/Terminal--first-TUI%20%26%20CLI-1f2937?style=flat-square" />
+  <img alt="Git workflows" src="https://img.shields.io/badge/Git-Workflow%20automation-1f2937?style=flat-square&logo=git&logoColor=white" />
+  <img alt="AI tooling" src="https://img.shields.io/badge/Local%20AI-Developer%20tooling-1f2937?style=flat-square" />
+  <img alt="Collaboration" src="https://img.shields.io/badge/Collaboration-Open%20to%20discussions-1f2937?style=flat-square" />
 </p>
 
 ## Connect | 联系方式

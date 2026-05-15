@@ -1,8 +1,8 @@
 <div align="center">
   <h1>life2you</h1>
   <p>
-    <strong>9-year Java developer</strong> now building
-    <strong>terminal-first Rust tools</strong>
+    <strong>9-year Java developer</strong>
+    exploring practical tooling with <strong>AI-assisted Rust</strong>
   </p>
   <p>
     for macOS, Git workflows, and local automation
@@ -11,12 +11,12 @@
     <strong>9年Java开发</strong>
   </p>
   <p>
-    聚焦 macOS、Git 工作流与本地自动化
+    借助 AI 持续做 macOS、Git 工作流与本地自动化工具探索
   </p>
   <p>
     <img alt="Followers" src="https://img.shields.io/github/followers/life2you?style=for-the-badge&label=Followers" />
     <img alt="Java" src="https://img.shields.io/badge/Java-9%20years-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-Terminal%20builder-c2410c?style=for-the-badge&logo=rust&logoColor=white" />
+    <img alt="AI-assisted Rust" src="https://img.shields.io/badge/Rust-AI--assisted-c2410c?style=for-the-badge&logo=rust&logoColor=white" />
   </p>
   <p>
     <img alt="macOS" src="https://img.shields.io/badge/macOS-Local%20tools-1f2937?style=flat-square&logo=apple&logoColor=white" />
@@ -30,13 +30,13 @@
 
 ## About | 关于
 
-> Hi, I'm `life2you`. I spent 9 years in Java development, and now I put a lot
-> of my energy into practical Rust tools around terminal UX, macOS automation,
-> Git workflows, and local AI tooling.
+> Hi, I'm `life2you`. I spent 9 years in Java development, and now I use AI to
+> help me explore practical tooling around Rust, terminal UX, macOS
+> automation, Git workflows, and local AI workflows.
 >
-> 你好，我是 `life2you`。我有 9 年 Java 开发经验，这几年也在持续投入
-> Rust 方向，主要在做终端体验、macOS 自动化、Git 工作流，以及偏本地化的
-> AI 开发工具。
+> 你好，我是 `life2you`。我有 9 年 Java 开发经验，现在主要借助 AI
+> 探索 Rust、终端体验、macOS 自动化、Git 工作流，以及偏本地化的 AI
+> 开发工具。
 
 > I like software that starts fast, stays local-first, and removes real
 > day-to-day friction for developers.
@@ -69,7 +69,7 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Background</strong><br />
-      9 years of Java, now building more with Rust.
+      9 years of Java, now exploring Rust with AI assistance.
     </td>
     <td valign="top" width="50%">
       <strong>Style</strong><br />

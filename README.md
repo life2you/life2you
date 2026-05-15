@@ -8,8 +8,7 @@
     for macOS, Git workflows, and local automation
   </p>
   <p>
-    <strong>9 年 Java 开发经验</strong>，正在持续打造
-    <strong>终端优先的 Rust 工具</strong>
+    <strong>9年Java开发</strong>
   </p>
   <p>
     聚焦 macOS、Git 工作流与本地自动化
